@@ -52,8 +52,7 @@ To install and run the Menu Management System locally, follow these steps:
 
 
 1  **Clone the repository**:
-git clone https://github.com/tubisaffo/python-p4-Hotel-Menu-project
-cd repository-python-p4-Hotel-Menu-project 
+git clone : [https://github.com/Mosh9098/Hotel-Menu-App]
 
 
 2 **Set up virtual environment** (Must ):
